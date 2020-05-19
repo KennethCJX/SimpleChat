@@ -43,8 +43,7 @@ public class Publisher implements Publishable<ChatData> {
         //      remove the <key, value> pairs from the collection.
         //   4) Announce to all the other observers/subcribers that the
         //      observers has left the channel.
-
-
+		try this out
     }
 
     @Override
@@ -60,6 +59,7 @@ public class Publisher implements Publishable<ChatData> {
         //      the chat message to each one of them. Otherwise, just ignore.
         //      [Note: you might want to decorate the message with informative
         //       info like who sent the message.]
+		added silly code
     }
 
 }
